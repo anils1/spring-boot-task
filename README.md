@@ -11,9 +11,11 @@
 
 # Below are the steps to configure/start Kafka in your pc:
 
- # step 1: download kafka from google and extract in your local machine
+ download kafka from google and extract in your local machine
 
-		to start zookeeper, run below command in terminal/cmd (default port:2181)
+ # step 1: start zookeeper(default port:2181)
+
+		to start zookeeper, run below command in terminal/cmd 
 		cmd : <kafka_folder>/bin/zookeeper-server-start.sh config/zookeeper.properties
 
  # step 2: start kafka server(default port:9092)
