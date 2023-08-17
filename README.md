@@ -11,7 +11,7 @@
 
 # Below are the steps to configure/start Kafka in your pc:
 
- download kafka from google and extract in your local machine
+ download kafka from google and extract in your local machine. find here https://archive.apache.org/dist/kafka/3.4.0/kafka-3.4.0-src.tgz 
 
  # step 1: start zookeeper(default port:2181)
 
